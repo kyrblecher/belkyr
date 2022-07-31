@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @belkyr
+- 👋 Hi, I’m Kyrill
 - 👀 I’m a Frontend/Full-Stack Developer
 - 📫 Reach me at : belenkovkyr@gmail.com
 
