@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kyrill
 - 👀 I’m a Frontend/Full-Stack Developer
-- 📫 Reach me at : belenkovkyr@gmail.com
+- 📫 Reach me at : kblecher@proton.me
 
 <!---
 belkyr/belkyr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
